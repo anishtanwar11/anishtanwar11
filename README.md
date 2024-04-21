@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my projects (Noise Clobe) and portfolio.<br>🌱 I’m currently learning about MEAN Stack Development.<br>
+🔭 I’m currently learning about MERN Stack Development.<br> Rest API's
 
 
 ## 🌐 Socials:
